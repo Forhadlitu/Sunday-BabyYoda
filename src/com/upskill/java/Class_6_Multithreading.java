@@ -3,7 +3,7 @@ package com.upskill.java;
 public class Class_6_Multithreading {
 	
 	/* Multithreading is a Java feature that allows concurrent execution of two or more parts of a program.
-	
+	//test git
 	Threads can be created by using two mechanisms : 
 
 		1. Extending the Thread class 
